@@ -1,4 +1,4 @@
-# Introducción a los Kernels del GPU y el Hardware
+# Introducción a los Kernels y Hardware del GPU 
 
 Para iniciar este curso, el autor nos muestra un ejemplo para realizar una sencilla suma pero con 3 métodos diferentes, primero con la CPU, después con la CPU de nuevo pero ahora usando los threads del procesador y al final con la GPU usando CUDA.
 
